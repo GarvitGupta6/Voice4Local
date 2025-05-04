@@ -1,0 +1,40 @@
+/* src/styles/Profile.css */
+
+.profile-container {
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .profile-detail {
+    margin-top: 20px;
+  }
+  
+  .profile-field {
+    margin-bottom: 10px;
+  }
+  
+  .profile-field strong {
+    font-weight: bold;
+  }
+  
+  .products-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  
+  .product-card {
+    border: 1px solid #ddd;
+    padding: 10px;
+    width: 200px;
+  }
+  
+  .product-card p {
+    margin: 5px 0;
+  }
+  
+  img {
+    border-radius: 8px;
+  }
+  
